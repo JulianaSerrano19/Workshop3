@@ -1,7 +1,7 @@
 # Workshop3:
 
-**Curso:** ETL – Ingeniería de Datos e Inteligencia Artificial  
-**Institución:** Universidad Autónoma de Occidente 
+ETL – Ingeniería de Datos e Inteligencia Artificial  
+Universidad Autónoma de Occidente 
 
 **Estudiante:** Juliana Toro Serrano  
 
