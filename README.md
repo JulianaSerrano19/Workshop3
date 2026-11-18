@@ -2,6 +2,7 @@
 
 **Curso:** ETL – Ingeniería de Datos e Inteligencia Artificial  
 **Institución:** Universidad Autónoma de Occidente 
+
 **Estudiante:** Juliana Toro Serrano  
 
 ## Descripción General
