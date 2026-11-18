@@ -1,4 +1,4 @@
-# Workshop3: Pipeline ETL con Apache Kafka y Machine Learning
+# Workshop3:
 
 **Curso:** ETL – Ingeniería de Datos e Inteligencia Artificial  
 **Institución:** Universidad Autónoma de Occidente 
